@@ -1,0 +1,7 @@
+1 Cheese_Burger		80.00	
+2 Fries			19.95
+3 Beef_Burger		98.50
+4 Cake			38.00
+5 Omellete		25.00
+6 Steak			142.55
+7 BBQ_Chicken		117.45

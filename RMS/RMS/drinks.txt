@@ -1,0 +1,7 @@
+8 Water			10.00
+9 Juice			20.00
+10 Soda			24.95
+11 Wine			45.50
+12 Coffee		29.85
+13 Tea			26.00
+14 Milkshake		35.00
